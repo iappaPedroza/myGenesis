@@ -1,2 +1,3 @@
-# myGenius
-Meu projeto Genius do BootCamp FULLSTACKDEV#2 EDUZZ - DIO
+# Meu genesis
+Meu projeto Genesis do BootCamp FULLSTACKDEV#2 EDUZZ - DIO.
+
